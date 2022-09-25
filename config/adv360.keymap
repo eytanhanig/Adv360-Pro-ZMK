@@ -63,7 +63,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans  &trans  &trans   &trans   &trans      &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                   &trans   &trans       &none        &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none   &none  &trans   &none   &none   &trans    &none       &none        &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans   &trans   &trans  &kp K_MENU  &kp K_SELECT  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans            &trans  &trans  &trans  &trans  &trans   &trans   &trans  &kp RG(RS(LBKT))  &kp RG(RS(RBKT))  &trans
             >;
         };
 
