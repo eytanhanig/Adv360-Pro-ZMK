@@ -63,7 +63,7 @@
  &trans  &trans             &trans        &trans      &trans  &trans             &none   &none  &trans  &trans  &trans             &trans      &trans            &trans
  &trans  &trans             &trans        &trans      &trans  &trans             &none  &trans  &trans                             &trans      &trans             &none            &trans  &trans  &trans  &trans  &trans  &trans
  &trans  &trans             &trans        &trans      &trans  &trans             &none   &none  &trans   &none   &none             &trans       &none             &none            &trans  &trans  &trans  &trans  &trans  &trans
- &trans  &trans  &kp K_APPLICATION  &kp K_SELECT  &kp K_MENU  &trans            &trans  &trans  &trans  &trans  &trans  &kp C_MENU_SELECT  &kp C_MENU  &kp RG(RS(LBKT))  &kp RG(RS(RBKT))  &trans
+ &trans  &trans  &kp K_APPLICATION  &kp RG(RS(LBKT))  &kp RG(RS(RBKT))  &trans            &trans  &trans  &trans  &trans  &trans  &kp RG(RS(LBKT))  &kp RG(RS(RBKT))  &kp RG(RS(LBKT))  &kp RG(RS(RBKT))  &trans
             >;
         };
 
